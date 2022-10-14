@@ -1,4 +1,0 @@
-/* Change cursor to a point when hovered over a marker */
-.marker svg:hover {
-  cursor: pointer;
-}
